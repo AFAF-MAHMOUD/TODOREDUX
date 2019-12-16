@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TODOREDUX/static/css/main.548ea6dd.chunk.css",
+    "main.js": "/TODOREDUX/static/js/main.5dca65b2.chunk.js",
+    "main.js.map": "/TODOREDUX/static/js/main.5dca65b2.chunk.js.map",
+    "runtime-main.js": "/TODOREDUX/static/js/runtime-main.108312a8.js",
+    "runtime-main.js.map": "/TODOREDUX/static/js/runtime-main.108312a8.js.map",
+    "static/js/2.9791878d.chunk.js": "/TODOREDUX/static/js/2.9791878d.chunk.js",
+    "static/js/2.9791878d.chunk.js.map": "/TODOREDUX/static/js/2.9791878d.chunk.js.map",
+    "index.html": "/TODOREDUX/index.html",
+    "precache-manifest.fe8a65170a63ac5f92a2d9cd20ca797c.js": "/TODOREDUX/precache-manifest.fe8a65170a63ac5f92a2d9cd20ca797c.js",
+    "service-worker.js": "/TODOREDUX/service-worker.js",
+    "static/css/main.548ea6dd.chunk.css.map": "/TODOREDUX/static/css/main.548ea6dd.chunk.css.map",
+    "static/js/2.9791878d.chunk.js.LICENSE": "/TODOREDUX/static/js/2.9791878d.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.108312a8.js",
+    "static/js/2.9791878d.chunk.js",
+    "static/css/main.548ea6dd.chunk.css",
+    "static/js/main.5dca65b2.chunk.js"
+  ]
+}
